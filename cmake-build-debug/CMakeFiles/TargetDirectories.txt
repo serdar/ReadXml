@@ -1,0 +1,3 @@
+D:/dev/ReadXml/cmake-build-debug/CMakeFiles/ReadXml.dir
+D:/dev/ReadXml/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/dev/ReadXml/cmake-build-debug/CMakeFiles/rebuild_cache.dir
